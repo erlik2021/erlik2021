@@ -16,7 +16,11 @@ public class App
 
         for (int i = 0; i < stack.getSize(); i++)
         {
-            System.out.println(stack.pop());
+         sdasd   System.out.println(stack.pop());
         }
-    }
-}
+    }}
+
+
+
+
+
